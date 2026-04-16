@@ -1,2 +1,1 @@
-Controle de alunos 
-Controle de professores 
+Controle de alunos e professores 
